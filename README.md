@@ -1,1 +1,1 @@
-Added array practice programs and project structure
+Added array practice programs and project structure.
