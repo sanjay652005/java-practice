@@ -1,4 +1,4 @@
-package exercise;
+package abstraction;
 
 public class statics {
 	statics(){
